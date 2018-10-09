@@ -4,9 +4,9 @@ import java.util.Arrays;
 
 class PresentBox {
 
-    private int length;
-    private int width;
-    private int height;
+    private final int length;
+    private final int width;
+    private final int height;
 
     PresentBox(int length, int width, int height) {
         this.length = length;
