@@ -2,7 +2,7 @@ package com.widera.adventofcode2015.day03;
 
 import com.widera.adventofcode2015.FileInput;
 
-public class Day03Part1 {
+class Day03Part1 {
 
     public static void main(String[] args) {
         Santa santa = new Santa();

@@ -5,7 +5,7 @@ import com.widera.adventofcode2015.FileInput;
 import java.util.HashSet;
 import java.util.Set;
 
-public class Day03Part2 {
+class Day03Part2 {
 
     public static void main(String[] args) {
         Santa santa = new Santa();

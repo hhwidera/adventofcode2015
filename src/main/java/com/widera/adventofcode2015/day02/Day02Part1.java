@@ -2,7 +2,7 @@ package com.widera.adventofcode2015.day02;
 
 import com.widera.adventofcode2015.FileInput;
 
-public class Day02Part1 {
+class Day02Part1 {
 
     public static void main(String[] args) {
         int totalSquareFeetOfWrappingPaper = FileInput.readLinesAsString("input-day02.txt").stream()

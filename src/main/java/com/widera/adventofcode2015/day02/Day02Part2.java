@@ -2,7 +2,7 @@ package com.widera.adventofcode2015.day02;
 
 import com.widera.adventofcode2015.FileInput;
 
-public class Day02Part2 {
+class Day02Part2 {
 
     public static void main(String[] args) {
         int totalFeetOfRibbon = FileInput.readLinesAsString("input-day02.txt").stream()
